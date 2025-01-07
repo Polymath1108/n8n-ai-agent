@@ -1,6 +1,6 @@
-# Clique AI Assistant Service Overview
+# Robota AI Assistant Service Overview
 
-### About Clique AI
+### About Robota AI
 
 Autonomous AI-powered unification and execution company-os 
 Clique is designed handle tasks like managing your calendar, email inbox, updating your CRM, sending emails,manage teams and even scheduling meetings. we’ve built an AI-powered agent that can summarize your schedule, update you on emails, and assist with any personal administration tasks, all through simple texts or voice commands. 
